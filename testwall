@@ -1,0 +1,14 @@
+[
+  {
+    "name": "First Wallpaper",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/1.jpg"
+  },
+  {
+    "name": "Second Wallpaper",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/2.jpg"
+  },
+  {
+    "name": "Third Wallpaper",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/3.jpg"
+  }
+]
